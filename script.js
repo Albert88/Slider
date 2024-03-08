@@ -43,3 +43,4 @@ dots.forEach((item, index) => {
     relodeCarusel();
   });
 });
+// comment
